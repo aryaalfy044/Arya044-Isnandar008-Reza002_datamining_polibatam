@@ -1,2 +1,2 @@
-# Arya044-Isnandar008-Reza002_datamining_polibatam
+# Arya044-Isnandar008-Reza041_datamining_polibatam
 Repositori Tugas Akhir Data Mining 
